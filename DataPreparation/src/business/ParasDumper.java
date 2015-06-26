@@ -166,6 +166,7 @@ public class ParasDumper {
 						}
 					}
 					cassandraResultSet.close();
+					System.out.println("[TEST] Written " + equip + "!"); //INFO
 				}
 				
 				out.close();

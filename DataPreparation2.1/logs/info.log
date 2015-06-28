@@ -1,0 +1,95 @@
+[INFO]2015-06-28 21:00:30 [business.Main:19] program begins...
+[INFO]2015-06-28 21:00:30 [business.Main:39] query startDateTime: 2012-10-01
+[INFO]2015-06-28 21:00:30 [business.Main:40] query endDateTime: 2012-11-30
+[INFO]2015-06-28 21:00:30 [config.Configuration:66] load database ip from config.xml: 192.168.10.61
+[INFO]2015-06-28 21:00:30 [config.Configuration:71] load database port from config.xml: 9170
+[INFO]2015-06-28 21:00:30 [config.Configuration:88] load paras file path from config.xml: paras.csv
+[INFO]2015-06-28 21:00:30 [business.ParasDumper:48] read parasID from file: paras.csv
+[INFO]2015-06-28 21:00:30 [business.ParasDumper:114] read equips from file: equips.csv
+[INFO]2015-06-28 21:00:31 [util.DBConnector:33] connnect to Cassandra: jdbc:cassandra://192.168.10.61:9170/sany_test_single?version=2.0.0
+[INFO]2015-06-28 21:00:31 [business.ParasDumper:170] queried para and written into file: paraID=183
+[INFO]2015-06-28 21:00:31 [business.ParasDumper:170] queried para and written into file: paraID=184
+[INFO]2015-06-28 21:00:31 [business.ParasDumper:170] queried para and written into file: paraID=185
+[INFO]2015-06-28 21:00:31 [business.ParasDumper:173] queried all paras and written into folder paras/
+[INFO]2015-06-28 21:00:31 [business.SliceNoMarker:53] make dir: marked_paras
+[INFO]2015-06-28 21:00:31 [business.SliceNoMarker:88] read slices from file: slices.csv
+[INFO]2015-06-28 21:00:31 [business.SliceNoMarker:124] marked para and written into file: paraID=183
+[INFO]2015-06-28 21:00:31 [business.SliceNoMarker:124] marked para and written into file: paraID=184
+[INFO]2015-06-28 21:00:31 [business.SliceNoMarker:124] marked para and written into file: paraID=185
+[INFO]2015-06-28 21:00:31 [business.SliceNoMarker:127] marked all paras and written into folder: marked_paras/
+[INFO]2015-06-28 21:00:31 [business.Main:91] Program quit 
+
+
+
+
+
+[INFO]2015-06-28 21:01:21 [business.Main:19] program begins...
+[INFO]2015-06-28 21:01:21 [business.Main:39] query startDateTime: 2012-10-01
+[INFO]2015-06-28 21:01:21 [business.Main:40] query endDateTime: 2012-11-30
+[INFO]2015-06-28 21:01:21 [config.Configuration:66] load database ip from config.xml: 192.168.10.61
+[INFO]2015-06-28 21:01:21 [config.Configuration:71] load database port from config.xml: 9170
+[INFO]2015-06-28 21:01:21 [config.Configuration:88] load paras file path from config.xml: paras.csv
+[INFO]2015-06-28 21:01:21 [business.ParasDumper:48] read parasID from file: paras.csv
+[INFO]2015-06-28 21:01:21 [business.ParasDumper:114] read equips from file: equips.csv
+[INFO]2015-06-28 21:01:21 [util.DBConnector:33] connnect to Cassandra: jdbc:cassandra://192.168.10.61:9170/sany_test_single?version=2.0.0
+[INFO]2015-06-28 21:01:22 [business.ParasDumper:170] queried para and written into file: paraID=183
+[INFO]2015-06-28 21:01:22 [business.ParasDumper:170] queried para and written into file: paraID=184
+[INFO]2015-06-28 21:01:22 [business.ParasDumper:170] queried para and written into file: paraID=185
+[INFO]2015-06-28 21:01:22 [business.ParasDumper:173] queried all paras and written into folder paras/
+[INFO]2015-06-28 21:01:22 [business.SliceNoMarker:88] read slices from file: slices.csv
+[INFO]2015-06-28 21:01:22 [business.SliceNoMarker:124] marked para and written into file: paraID=183
+[INFO]2015-06-28 21:01:22 [business.SliceNoMarker:124] marked para and written into file: paraID=184
+[INFO]2015-06-28 21:01:22 [business.SliceNoMarker:124] marked para and written into file: paraID=185
+[INFO]2015-06-28 21:01:22 [business.SliceNoMarker:130] marked all paras and written into folder: marked_paras/
+[INFO]2015-06-28 21:01:22 [business.Main:91] Program quit 
+
+
+
+
+
+[INFO]2015-06-28 21:17:22 [business.Main:19] program begins...
+[INFO]2015-06-28 21:17:22 [business.Main:39] query startDateTime: 2012-10-01
+[INFO]2015-06-28 21:17:22 [business.Main:40] query endDateTime: 2012-11-30
+[INFO]2015-06-28 21:17:22 [config.Configuration:66] load database ip from config.xml: 192.168.10.61
+[INFO]2015-06-28 21:17:22 [config.Configuration:71] load database port from config.xml: 9170
+[INFO]2015-06-28 21:17:22 [config.Configuration:88] load paras file path from config.xml: paras.csv
+[INFO]2015-06-28 21:17:22 [business.ParasDumper:48] read parasID from file: paras.csv
+[INFO]2015-06-28 21:17:22 [business.ParasDumper:114] read equips from file: equips.csv
+[INFO]2015-06-28 21:17:22 [util.DBConnector:33] connnect to Cassandra: jdbc:cassandra://192.168.10.61:9170/sany_test_single?version=2.0.0
+[INFO]2015-06-28 21:17:22 [business.ParasDumper:170] queried para and written into file: paraID=183
+[INFO]2015-06-28 21:17:22 [business.ParasDumper:170] queried para and written into file: paraID=184
+[INFO]2015-06-28 21:17:22 [business.ParasDumper:170] queried para and written into file: paraID=185
+[INFO]2015-06-28 21:17:22 [business.ParasDumper:176] queried all paras and written into folder paras/
+[INFO]2015-06-28 21:17:22 [business.SliceNoMarker:53] make dir: marked_paras
+[INFO]2015-06-28 21:17:22 [business.SliceNoMarker:88] read slices from file: slices.csv
+[INFO]2015-06-28 21:17:22 [business.SliceNoMarker:124] marked para and written into file: paraID=183
+[INFO]2015-06-28 21:17:22 [business.SliceNoMarker:124] marked para and written into file: paraID=184
+[INFO]2015-06-28 21:17:22 [business.SliceNoMarker:124] marked para and written into file: paraID=185
+[INFO]2015-06-28 21:17:22 [business.SliceNoMarker:130] marked all paras and written into folder: marked_paras/
+[INFO]2015-06-28 21:17:22 [business.Main:91] Program quit 
+
+
+
+
+
+[INFO]2015-06-28 21:19:22 [business.Main:19] ************************************************************
+[INFO]2015-06-28 21:19:22 [business.Main:20] program begins...
+[INFO]2015-06-28 21:19:22 [business.Main:40] query startDateTime: 2012-10-01
+[INFO]2015-06-28 21:19:22 [business.Main:41] query endDateTime: 2012-11-30
+[INFO]2015-06-28 21:19:22 [config.Configuration:66] load database ip from config.xml: 192.168.10.61
+[INFO]2015-06-28 21:19:22 [config.Configuration:71] load database port from config.xml: 9170
+[INFO]2015-06-28 21:19:22 [config.Configuration:88] load paras file path from config.xml: paras.csv
+[INFO]2015-06-28 21:19:22 [business.ParasDumper:48] read parasID from file: paras.csv
+[INFO]2015-06-28 21:19:22 [business.ParasDumper:114] read equips from file: equips.csv
+[INFO]2015-06-28 21:19:23 [util.DBConnector:33] connnect to Cassandra: jdbc:cassandra://192.168.10.61:9170/sany_test_single?version=2.0.0
+[INFO]2015-06-28 21:19:23 [business.ParasDumper:170] queried para and written into file: paraID=183
+[INFO]2015-06-28 21:19:23 [business.ParasDumper:170] queried para and written into file: paraID=184
+[INFO]2015-06-28 21:19:23 [business.ParasDumper:170] queried para and written into file: paraID=185
+[INFO]2015-06-28 21:19:23 [business.ParasDumper:176] queried all paras and written into folder paras/
+[INFO]2015-06-28 21:19:23 [business.SliceNoMarker:88] read slices from file: slices.csv
+[INFO]2015-06-28 21:19:23 [business.SliceNoMarker:124] marked para and written into file: paraID=183
+[INFO]2015-06-28 21:19:23 [business.SliceNoMarker:124] marked para and written into file: paraID=184
+[INFO]2015-06-28 21:19:23 [business.SliceNoMarker:124] marked para and written into file: paraID=185
+[INFO]2015-06-28 21:19:23 [business.SliceNoMarker:130] marked all paras and written into folder: marked_paras/
+[INFO]2015-06-28 21:19:23 [business.Main:92] Program quit
+[INFO]2015-06-28 21:19:23 [business.Main:93] ************************************************************

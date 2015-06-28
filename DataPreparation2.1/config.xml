@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<database>
+		<ip>192.168.10.61</ip>
+		<port>9170</port>
+	</database>
+	
+	<paras>
+		<filepath>paras.csv</filepath>
+	</paras>
+</configuration>

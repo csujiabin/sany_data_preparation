@@ -1,9 +1,0 @@
-[INFO]2015-06-29 22:58:08 [business.Main:19] ************************************************************
-[INFO]2015-06-29 22:58:08 [business.Main:20] program begins...
-[INFO]2015-06-29 22:58:08 [business.Main:40] query startDateTime: 2012-10-01
-[INFO]2015-06-29 22:58:08 [business.Main:41] query endDateTime: 2012-11-30
-[INFO]2015-06-29 22:58:09 [config.Configuration:66] loaded database ip from config.xml: 192.168.10.61
-[INFO]2015-06-29 22:58:09 [config.Configuration:71] loaded database port from config.xml: 9170
-[INFO]2015-06-29 22:58:09 [config.Configuration:88] loaded paras file path from config.xml: paras.csv
-[INFO]2015-06-29 22:58:09 [business.ParasDumper:48] read parasID from file: paras.csv
-[INFO]2015-06-29 22:58:09 [business.ParasDumper:114] read equips from file: equips.csv

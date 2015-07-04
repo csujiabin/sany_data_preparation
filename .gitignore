@@ -4,3 +4,6 @@
 
 *.class
 *.csv
+!_paras.csv
+
+*.log*
